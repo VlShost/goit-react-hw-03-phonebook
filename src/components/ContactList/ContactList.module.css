@@ -1,0 +1,18 @@
+.listBtn {
+  width: 70px;
+  height: 20px;
+
+  margin: 5px 10px;
+
+  background-color: #ffc300;
+
+  border: 1px solid #ffc300;
+  border-radius: 10px;
+
+  transition: 0.2s;
+}
+
+.listBtn:hover,
+.listBtn:focus {
+  background-color: #dfab00;
+}
